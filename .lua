@@ -74,4 +74,3 @@ tracers.MouseButton1Down:connect(function()
 		coroutine.wrap(lineesp)()
 	end)
 
-end)
